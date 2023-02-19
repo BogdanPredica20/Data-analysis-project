@@ -1,0 +1,10 @@
+Popescu Marcel 34 M 3020 0
+Ionescu Andrei 55 M 5100 0
+Florea Maria 24 F 2000 1
+Andronache Ioana 40 F 6000 1
+Marin Florin 22 M 2300 1
+Popa Florentina 37 F 4090 1
+Constantin Viorica 45 F 4510 0
+Marinescu Ion 29 M 2950 1
+Stanciu Mirela 38 F 6700 1
+Banu Manuela 51 F 4370 0
